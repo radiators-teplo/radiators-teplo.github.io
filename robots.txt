@@ -1,3 +1,15 @@
+User-agent: Googlebot
+Disallow:
+
+User-agent: Bingbot
+Disallow:
+
+User-agent: Yandex
+Disallow:
+
+
 User-agent: *
+Disallow: /
+
 Disallow: /private/
 Disallow: /hidden-page.html
